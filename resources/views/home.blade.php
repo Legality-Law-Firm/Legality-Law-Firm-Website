@@ -63,25 +63,21 @@
                             <div class="col-lg-12">
                                 <div class="volunteer-img">
                                     <img src="img/volunteers-1.jpg" class="img-fluid w-100" alt="Image">
-                                    <div class="volunteer-title">
-                                        <h5 class="mb-2 text-white">Michel Brown</h5>
-                                        <p class="mb-0 text-white">Communicator</p>
-                                    </div>
                                 </div>
                             </div>
                         </div>
                     </div>
                     <div class="col-lg-7">
-                        <h5 class="text-uppercase text-primary">Become a Volunteer?</h5>
-                        <h1 class="mb-4">Join your hand with us for a better life and beautiful future.</h1>
-                        <p class="mb-4">Lorem ipsum dolor sit amet consectur adip sed eiusmod amet consectur adip sed eiusmod tempor amet consectur adip sed eiusmod amet consectur adip sed eiusmod tempor amet consectur adip sed eiusmod amet consectur adip sed eiusmod tempor.
+                        <h5 class="text-uppercase text-primary">JOIN OUR LEGAL EXPERTISE</h5>
+                        <h1 class="mb-4">Partner with us for seamless corporate governance and legal excellence.</h1>
+                        <p class="mb-4">Legality Law Firm is a full-service legal practice dedicated to providing comprehensive legal solutions for corporations, non-profit organizations, and government entities. With a team of experienced attorneys specializing in various legal disciplines, we are committed to delivering exceptional legal counsel and representation tailored to the unique needs of our clients.
                         </p>
-                        <p class="text-dark"><i class=" fa fa-check text-primary me-2"></i> We are friendly to each other.</p>
-                        <p class="text-dark"><i class=" fa fa-check text-primary me-2"></i> If you join with us,We will give you free training.</p>
-                        <p class="text-dark"><i class=" fa fa-check text-primary me-2"></i> Its an opportunity to help poor Environments.</p>
+                        <p class="text-dark"><i class=" fa fa-check text-primary me-2"></i> Expertise Across Sectors.</p>
+                        <p class="text-dark"><i class=" fa fa-check text-primary me-2"></i> Customized Solutions.</p>
+                        <p class="text-dark"><i class=" fa fa-check text-primary me-2"></i> Commitment to Excellence.</p>
                         <p class="text-dark"><i class=" fa fa-check text-primary me-2"></i> No goal requirements.</p>
-                        <p class="text-dark mb-5"><i class=" fa fa-check text-primary me-2"></i> Joining is tottaly free. We dont need any money from you.</p>
-                        <a class="btn-hover-bg btn btn-primary text-white py-2 px-4" href="#">Join With Us</a>
+                        <p class="text-dark mb-5"><i class=" fa fa-check text-primary me-2"></i> No Initial Consultation Fees.</p>
+                        <a class="btn-hover-bg btn btn-primary text-white py-2 px-4" href="{{url('/contact')}}">Join With Us</a>
                     </div>
                 </div>
             </div>
