@@ -13,7 +13,7 @@
                         <img src="img/carousel-1.jpg" class="img-fluid" alt="Image">
                         <div class="carousel-caption">
                             <div class="p-3" style="max-width: 900px;">
-                                <h1 class="display-2 text-capitalize text-white mb-4">We Bridge International and Local Best Practices</h1>
+                                <h1 class="display-2 text-capitalize text-white mb-4">Dedication with Integrity and Professionalism</h1>
                                 <div class="d-flex align-items-center justify-content-center">
                                     <a class="btn-hover-bg btn btn-primary text-white py-3 px-5" href="{{url('/contact')}}">Join With Us</a>
                                 </div>
@@ -24,7 +24,7 @@
                         <img src="img/carousel-2.jpg" class="img-fluid" alt="Image">
                         <div class="carousel-caption">
                             <div class="p-3" style="max-width: 900px;">
-                                <h1 class="display-5 text-capitalize text-white mb-4">We Understand the Regulators and Navigate the Complexities of Indonesian Laws</h1>
+                                <h1 class="display-5 text-capitalize text-white mb-4">The Right Legal Solutions for Your Needs</h1>
                                 <div class="d-flex align-items-center justify-content-center">
                                     <a class="btn-hover-bg btn btn-primary text-white py-3 px-5" href="{{url('/contact')}}">Join With Us</a>
                                 </div>
@@ -35,7 +35,7 @@
                         <img src="img/carousel-3.jpg" class="img-fluid" alt="Image">
                         <div class="carousel-caption">
                             <div class="p-3" style="max-width: 900px;">
-                                <h1 class="display-2 text-capitalize text-white mb-4">Client-Driven is in our Firm's DNA</h1>
+                                <h1 class="display-2 text-capitalize text-white mb-4">Your Legal Partner on National and International Stages</h1>
                                 <div class="d-flex align-items-center justify-content-center">
                                     <a class="btn-hover-bg btn btn-primary text-white py-3 px-5" href="{{url('/contact')}}">Join With Us</a>
                                 </div>

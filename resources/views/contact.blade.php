@@ -13,17 +13,14 @@
         </div>
         <!-- Header End -->
 <!-- Contact Start -->
-<div class="container-fluid bg-light py-5">
-            <div class="container py-5">
                 <div class="contact p-5">
                     <div class="row g-4">
                         <div class="col-xl-5">
-                            <h1 class="mb-4">Get in touch</h1>
-                            <p class="mb-4">The contact form is currently inactive. Get a functional and working contact form with Ajax & PHP in a few minutes. Just copy and paste the files, add a little code and you're done. <a class="text-dark fw-bold" href="https://htmlcodex.com/contact-form">Download Now</a>.</p>
+                            <h1 class="mb-4">Let's Join With Us</h1>
                             <form>
                                 <div class="row gx-4 gy-3">
                                     <div class="col-xl-6">
-                                        <input type="text" class="form-control bg-white border-0 py-3 px-4" placeholder="Your First Name">
+                                        <input type="text" class="form-control bg-white border-0 py-3 px-4" placeholder="Your Name">
                                     </div>
                                     <div class="col-xl-6">
                                         <input type="email" class="form-control bg-white border-0 py-3 px-4" placeholder="Your Email">
@@ -50,25 +47,25 @@
                                         <div class="bg-white p-4">
                                             <i class="fas fa-map-marker-alt fa-2x text-primary mb-2"></i>
                                             <h4>Address</h4>
-                                            <p class="mb-0">123 street New York</p>
+                                            <p class="mb-0">Jl. Tuan Limun No. 13 Pisangan, Ciputat Timur, South Tangerang</p>
                                         </div>
                                     </div>
                                     <div class="col-lg-4">
                                         <div class="bg-white p-4">
                                             <i class="fas fa-envelope fa-2x text-primary mb-2"></i>
                                             <h4>Mail Us</h4>
-                                            <p class="mb-0">info@example.com</p>
+                                            <p class="mb-0">Info.legalitylawfirm@gmail.com </p>
                                         </div>
                                     </div>
                                     <div class="col-lg-4">
                                         <div class="bg-white p-4">
                                             <i class="fa fa-phone-alt fa-2x text-primary mb-2"></i>
                                             <h4>Telephone</h4>
-                                            <p class="mb-0">(+012) 3456 7890 123</p>
+                                            <p class="mb-0">+62 897-2412-111</p>
                                         </div>
                                     </div>
                                     <div class="col-lg-12">
-                                        <iframe class="w-100" style="height: 412px; margin-bottom: -6px;" src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d387191.33750346623!2d-73.97968099999999!3d40.6974881!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89c24fa5d33f083b%3A0xc80b8f06e177fe62!2sNew%20York%2C%20NY%2C%20USA!5e0!3m2!1sen!2sbd!4v1694259649153!5m2!1sen!2sbd"
+                                        <iframe class="w-100" style="height: 412px; margin-bottom: -6px;" src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3965.665192856376!2d106.75432741018075!3d-6.307642793655234!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x2e69efda38964aff%3A0x68f7bed837303c7d!2sJl.%20Tn.%20Limun%20No.13%2C%20Pisangan%2C%20Kec.%20Ciputat%20Tim.%2C%20Kota%20Tangerang%20Selatan%2C%20Banten%2015419!5e0!3m2!1sid!2sid!4v1721502158311!5m2!1sid!2sid"
                                             loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
                                     </div>
                                 </div>
@@ -76,7 +73,5 @@
                         </div>
                     </div>
                 </div>
-            </div>
-        </div>
         <!-- Contact End -->
 @endSection()

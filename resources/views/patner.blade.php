@@ -51,4 +51,30 @@
          </div>
         </div>
         <!-- Gallery End -->
+           <!-- Counsel Start -->
+        <div class="container-fluid gallery contact py-5 mt-5">
+        <h1 class="text-center display-3">Counsel</h1>
+         <div class="container py-5">
+            <div class="row g-3">
+                <!--BARIS KE 1 -->
+                <div class="col-lg-6 mx-auto">
+                    <div class="gallery-item">
+                        <img src="img/gallery-7.jpg" class="img-fluid w-100" alt="">
+                        <div class="search-icon">
+                            <a href="img/gallery-5.jpg" data-lightbox="gallery-5" class="my-auto"><i class="fas fa-search-plus btn-hover-color bg-white text-primary p-3"></i></a>
+                        </div>
+                        <div class="gallery-content">
+                            <div class="gallery-inner pb-5">
+                                <a href="#" class="h4 text-white">Muhammad Rezfah Omar, S.H., M.H.</a>
+                                <a href="#" class="text-white"><p class="mb-0"> Coordinator and Human Rights Expert at the Jakarta Province
+                                Women's and Children's Empowerment Integrated Service Center & certified ISO Internal Auditor qualification.</p></a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <!--BARIS KE 1 END -->
+            </div>
+         </div>
+        </div>
+        <!-- Counsel End -->
 @endSection()
