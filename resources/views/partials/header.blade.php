@@ -36,7 +36,7 @@
                             <a href="{{ url('/contact') }}" class="nav-item nav-link {{ Request::path() == 'contact' ? 'active' : '' }}">Contact Us</a>
                         </div>
                         <div class="d-flex align-items-center flex-nowrap pt-xl-0" style="margin-left: 15px;">
-                            <a href="" class="btn-hover-bg btn btn-primary text-white py-2 px-4 me-3">Join With Us</a>
+                            <a href="{{url('/contact')}}" class="btn-hover-bg btn btn-primary text-white py-2 px-4 me-3">Join With Us</a>
                         </div>
                     </div>
                 </nav>

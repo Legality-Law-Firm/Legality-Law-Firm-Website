@@ -15,7 +15,7 @@
                             <div class="p-3" style="max-width: 900px;">
                                 <h1 class="display-2 text-capitalize text-white mb-4">We Bridge International and Local Best Practices</h1>
                                 <div class="d-flex align-items-center justify-content-center">
-                                    <a class="btn-hover-bg btn btn-primary text-white py-3 px-5" href="#">Join With Us</a>
+                                    <a class="btn-hover-bg btn btn-primary text-white py-3 px-5" href="{{url('/contact')}}">Join With Us</a>
                                 </div>
                             </div>
                         </div>
@@ -26,7 +26,7 @@
                             <div class="p-3" style="max-width: 900px;">
                                 <h1 class="display-5 text-capitalize text-white mb-4">We Understand the Regulators and Navigate the Complexities of Indonesian Laws</h1>
                                 <div class="d-flex align-items-center justify-content-center">
-                                    <a class="btn-hover-bg btn btn-primary text-white py-3 px-5" href="#">Join With Us</a>
+                                    <a class="btn-hover-bg btn btn-primary text-white py-3 px-5" href="{{url('/contact')}}">Join With Us</a>
                                 </div>
                             </div>
                         </div>
@@ -37,7 +37,7 @@
                             <div class="p-3" style="max-width: 900px;">
                                 <h1 class="display-2 text-capitalize text-white mb-4">Client-Driven is in our Firm's DNA</h1>
                                 <div class="d-flex align-items-center justify-content-center">
-                                    <a class="btn-hover-bg btn btn-primary text-white py-3 px-5" href="#">Join With Us</a>
+                                    <a class="btn-hover-bg btn btn-primary text-white py-3 px-5" href="{{url('/contact')}}">Join With Us</a>
                                 </div>
                             </div>
                         </div>
@@ -72,11 +72,6 @@
                         <h1 class="mb-4">Partner with us for seamless corporate governance and legal excellence.</h1>
                         <p class="mb-4">Legality Law Firm is a full-service legal practice dedicated to providing comprehensive legal solutions for corporations, non-profit organizations, and government entities. With a team of experienced attorneys specializing in various legal disciplines, we are committed to delivering exceptional legal counsel and representation tailored to the unique needs of our clients.
                         </p>
-                        <p class="text-dark"><i class=" fa fa-check text-primary me-2"></i> Expertise Across Sectors.</p>
-                        <p class="text-dark"><i class=" fa fa-check text-primary me-2"></i> Customized Solutions.</p>
-                        <p class="text-dark"><i class=" fa fa-check text-primary me-2"></i> Commitment to Excellence.</p>
-                        <p class="text-dark"><i class=" fa fa-check text-primary me-2"></i> No goal requirements.</p>
-                        <p class="text-dark mb-5"><i class=" fa fa-check text-primary me-2"></i> No Initial Consultation Fees.</p>
                         <a class="btn-hover-bg btn btn-primary text-white py-2 px-4" href="{{url('/contact')}}">Join With Us</a>
                     </div>
                 </div>
