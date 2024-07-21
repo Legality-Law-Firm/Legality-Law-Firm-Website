@@ -76,36 +76,6 @@
                     </div>
                 </div>
                 <!--BARIS KE 2 END -->
-                 <!--BARIS KE 3 -->
-                <div class="col-lg-6">
-                    <div class="gallery-item">
-                        <img src="img/gallery-8.jpg" class="img-fluid w-100" alt="">
-                        <div class="search-icon">
-                            <a href="img/gallery-8.jpg" data-lightbox="gallery-8" class="my-auto"><i class="fas fa-search-plus btn-hover-color bg-white text-primary p-3"></i></a>
-                        </div>
-                        <div class="gallery-content">
-                            <div class="gallery-inner pb-5">
-                                <a href="#" class="h4 text-white">Larasati Nabila, S.H</a>
-                                <a href="#" class="text-white"><p class="mb-0">Bachelor of Laws from the UIN Syarif Hidayatullah Jakarta</p></a>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                <div class="col-lg-6">
-                    <div class="gallery-item">
-                        <img src="img/gallery-9.jpg" class="img-fluid w-100" alt="">
-                        <div class="search-icon">
-                            <a href="img/gallery-9.jpg" data-lightbox="gallery-9" class="my-auto"><i class="fas fa-search-plus btn-hover-color bg-white text-primary p-3"></i></a>
-                        </div>
-                        <div class="gallery-content">
-                            <div class="gallery-inner pb-5">
-                                <a href="#" class="h4 text-white">Dayandini Hastiti Putri, S.H</a>
-                                <a href="#" class="text-white"><p class="mb-0">Bachelor of Laws from the Pamulang University</p></a>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                <!--BARIS KE 3 END -->
             </div>
          </div>
         </div>
