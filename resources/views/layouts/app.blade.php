@@ -1,6 +1,6 @@
 <!DOCTYPE html>
 <html lang="en">
-    <link rel="icon" type="image/x-icon" href="favicon.svg">
+    <link rel="icon" type="image/x-icon" href="favicon.ico">
     <head>
     @include('partials.head')
     <title>Legality Law Firm - {{$title}} </title>
