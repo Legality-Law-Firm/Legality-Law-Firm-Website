@@ -260,7 +260,7 @@
                         <div class="service-item">
                             <img src="img/service-15.jpg" class="img-fluid w-100" alt="Image">
                             <div class="service-link">
-                                <a href="#" class="h4 mb-0">Administrative Law Family Law</a>
+                                <a href="#" class="h4 mb-0">Family Law</a>
                             </div>
                         </div>
                     </div>

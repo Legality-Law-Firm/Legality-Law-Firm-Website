@@ -25,7 +25,7 @@
                         </div>
                         <div class="gallery-content">
                             <div class="gallery-inner pb-5">
-                                <a href="#" class="h4 text-white">Muhammad Rezky Panji Perdana Martua
+                                <a href="#" class="h4 text-white">Rezky Panji Perdana Martua
                                 Hasibuan, S.H.</a>
                                 <a href="#" class="text-white"><p class="mb-0">Licensed to practice law as an advocate by the Indonesian Bar Association (PERADI)</p></a>
                             </div>
