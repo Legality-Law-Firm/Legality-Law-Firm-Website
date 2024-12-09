@@ -52,12 +52,12 @@
         </div>
         <!-- Gallery End -->
            <!-- Counsel Start -->
-        <div class="container-fluid gallery contact py-5 mt-5">
+        <!-- <div class="container-fluid gallery contact py-5 mt-5">
         <h1 class="text-center display-3">Counsel</h1>
          <div class="container py-5">
-            <div class="row g-3">
+            <div class="row g-3"> -->
                 <!--BARIS KE 1 -->
-                <div class="col-lg-6 mx-auto">
+                <!-- <div class="col-lg-6 mx-auto">
                     <div class="gallery-item">
                         <img src="img/gallery-7.jpg" class="img-fluid w-100" alt="">
                         <div class="search-icon">
@@ -71,10 +71,10 @@
                             </div>
                         </div>
                     </div>
-                </div>
+                </div> -->
                 <!--BARIS KE 1 END -->
-            </div>
+            <!-- </div>
          </div>
-        </div>
+        </div> -->
         <!-- Counsel End -->
 @endSection()
